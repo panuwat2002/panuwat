@@ -53,4 +53,6 @@ footer {
     object-fit: cover;
     display: block;
     margin: auto; /* Center the image horizontally */
+    src: 'correct/path/to/bas.png'; /* Update this with the correct path */
 }
+
